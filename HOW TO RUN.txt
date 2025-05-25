@@ -1,0 +1,4 @@
+This application was created using python v.3.12, you can run it via command line:
+
+
+python main.py
